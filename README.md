@@ -27,3 +27,5 @@ The project includes data cleaning, exploratory data analysis, customer segmenta
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of customer churn across contract type, tenure, internet service, payment method, and other customer attributes.
+
+![Customer Churn Dashboard](images/dashboard.png)
